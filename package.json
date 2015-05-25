@@ -1,0 +1,30 @@
+{
+  "name": "pocs",
+  "version": "1.0.0",
+  "description": "some rnd pocs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeshu/pocs.git"
+  },
+  "keywords": [
+    "html5",
+    "webpack",
+    "js",
+    "react",
+    "mongo"
+  ],
+  "author": "jeshuBrij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeshu/pocs/issues"
+  },
+  "homepage": "https://github.com/jeshu/pocs",
+  "devDependencies": {
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.9"
+  }
+}
